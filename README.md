@@ -20,7 +20,7 @@ Get the unique titles of all games with a price higher than $30.00.
 
 ## Scenario 4
 
-List the titles and quantities of games with less than 10 in stock.
+List the titles and quantities of games with less than 20 in stock.
 
 ## Scenario 5
 
@@ -52,7 +52,7 @@ Get the names and salaries of employees working on shifts.
 
 ## Scenario 12
 
-List the action figures with a quantity less than 5.
+List the action figures with a quantity less than 15.
 
 ## Scenario 13
 
@@ -64,7 +64,7 @@ Find the total number of genres.
 
 ## Scenario 15
 
-Get the names and quantities of action figures with prices over $75.00.
+Get the names and quantities of action figures with prices over $27.00.
 
 ## Scenario 16
 
@@ -112,11 +112,11 @@ Retrieve the titles and prices of games with prices less than $20.00.
 
 ## Scenario 27
 
-Find the total quantity of action figures with prices between $30.00 and $50.00.
+Find the total quantity of action figures with prices between $25.00 and $30.00.
 
 ## Scenario 28
 
-Get the names and positions of employees working on shifts with a start time before '2024-03-01'.
+Get the names and positions of employees working on shifts with a start time before '2024-03-07 13:00:00'.
 
 ## Scenario 29
 
@@ -132,15 +132,15 @@ Find the total number of shifts.
 
 ## Scenario 32
 
-Get the names and positions of employees working on shifts with a start time between '2024-02-01' and '2024-02-28'.
+Get the names and positions of employees working on shifts with a start time between '2024-02-01' and '2024-03-07 13:00:00'.
 
 ## Scenario 33
 
-List the game titles with quantities less than 5.
+List the game titles with quantities less than 20.
 
 ## Scenario 34
 
-Retrieve the names and quantities of action figures with prices over $50.00.
+Retrieve the names and quantities of action figures with prices over $23.00.
 
 ## Scenario 35
 
